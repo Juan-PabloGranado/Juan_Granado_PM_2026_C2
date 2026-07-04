@@ -1,0 +1,64 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "promedio": 8.7,
+      "materia": "Matemáticas"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Fernández",
+      "promedio": 7.2,
+      "materia": "Historia"
+    },
+    {
+      "nombre": "Carla",
+      "apellido": "Gómez",
+      "promedio": 9.1,
+      "materia": "Biología"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Ramírez",
+      "promedio": 6.8,
+      "materia": "Física"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Torres",
+      "promedio": 8.3,
+      "materia": "Química"
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Vargas",
+      "promedio": 7.9,
+      "materia": "Literatura"
+    },
+    {
+      "nombre": "Valentina",
+      "apellido": "Castro",
+      "promedio": 9.5,
+      "materia": "Inglés"
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "Rojas",
+      "promedio": 6.4,
+      "materia": "Educación Física"
+    },
+    {
+      "nombre": "Camila",
+      "apellido": "Ortiz",
+      "promedio": 8.0,
+      "materia": "Arte"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Morales",
+      "promedio": 7.6,
+      "materia": "Informática"
+    }
+  ]
+}
